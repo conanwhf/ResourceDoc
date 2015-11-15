@@ -4,7 +4,7 @@
 - [开发文档（iOS）][1]
 - [开发文档Swift部分 ][2]
 - [Swfit官方博客 ][3]
-- [WWDC 2015 Videos][4]：开发者大会官方视频，[英文字幕文件][5]，以及[下载链接][6]。_（[WWDC 2014][7]也有不少干货）_
+- [WWDC 2015 Videos][4]：开发者大会官方视频，[英文字幕文件][5]，以及[下载链接][6]。\_（[WWDC 2014][7]也有不少干货）\_
 - [iOS开发者大学 ][8]
 - [Swift2.1语言文档 ][9]
 - [Using Swift with Cocoa and Objective-C (Swift 2.1)][10]
@@ -12,8 +12,8 @@
 - [官方范例代码][12]　
 
 ## 中文翻译版本
-- [ The Swift Programming Language 中文版 ][13]**（2.0）**
-- [The Swift Programming Language 中文版][14]**（1.2）**
+- [ The Swift Programming Language 中文版 ][13]**（Swift v2.0）**
+- [The Swift Programming Language 中文版][14]**（Swift v1.2）**
 - [马上着手开发 iOS 应用程序][15]
 - [ WWDC2014 Swift入门 ][16]
 - [苹果商店应用审核指南中文翻译（2015）][17]
@@ -25,6 +25,7 @@
 - [iOS 无障碍开发指导][23]
 - [iOS 9人机界面指南（一）：UI设计基础][24]
 - [Xcode测试指南][25]
+- [iOS-Developer-Documents-Chinese][26]，一个专门翻译官方文档的志愿组织，更新缓慢
 
 [1]:	https://developer.apple.com/library/ios/navigation/
 [2]:	https://developer.apple.com/library/prerelease/ios/navigation/#section=Topics&topic=Swift
@@ -51,3 +52,4 @@
 [23]:	https://numbbbbb.gitbooks.io/ios-accessibility-programming-guide-in-chinese/content/
 [24]:	http://isux.tencent.com/ios9-guideline-ch1.html
 [25]:	https://github.com/CocoaChinaTranslationTeam/TestingWithXcodeDocsCN
+[26]:	https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese
