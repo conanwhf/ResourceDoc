@@ -29,11 +29,8 @@ _目前本人还在学习过程中，开发类教程文章看得不多，第三�
 ## 练手的小项目
 另外看到一个练手的小项目合集，准备有空就自己跟着练练，开放源码以示鞭策，[列表清单][18]传送门
 
-## 本项目镜像地址
-- （墙外）GitHub：
-	[https://github.com/conanwhf/ResourceDoc][19]
-- （墙内）OSChina：
-	[http://git.oschina.net/conanwhf/ResourceDoc][20]
+## 本项目镜像地址（失效）
+考虑到分享的资源，特别是开源资源多数在GitHub，本项目在墙内放一个镜像也没什么意义，加上需要手动同步麻烦，故将OSChina上的镜像删去。不便之处见谅
 
 [1]:	0.0fromApple.md
 [2]:	1.0other.md
@@ -53,5 +50,3 @@ _目前本人还在学习过程中，开发类教程文章看得不多，第三�
 [16]:	6.1bbs.md
 [17]:	6.2blog.md
 [18]:	tryList.md
-[19]:	https://github.com/conanwhf/ResourceDoc
-[20]:	http://git.oschina.net/conanwhf/ResourceDoc
