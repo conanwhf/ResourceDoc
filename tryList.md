@@ -13,7 +13,7 @@
 1. [ ] **009. 密码短信**——可以将数据加密解密，并能将其发送给朋友。
 1. [ ] **010. 帮你挑礼物**——输入一堆你可能会送的礼物，当有人过生日时，该程序会随机选择一样礼物。也可以加一个额外功能，可以告知哪里可以弄到这个礼物。
 1. [ ] **011. # CD-Key生成器**——利用某种算法生成一个唯一的key。软件开发者可以用它来作为软件的激活器。
-1. [ ] **012. # 正则表达式查询工具**——用户可以输入一段文本，在另外控件里输入一个正则表达式。运行以后会返回匹配的内容或者正则表达式中的错误。
+1. [x] **012. # [正则表达式查询工具][7]**——用户可以输入一段文本，在另外控件里输入一个正则表达式。运行以后会返回匹配的内容或者正则表达式中的错误。
 
 ## 网络
 1. [ ] **013. FTP工具**——与远程网络服务器交互文件。
@@ -102,3 +102,4 @@
 [4]:	https://github.com/conanwhf/swiftplayground/blob/master/Exercise_Demo.playground/Pages/001-005.xcplaygroundpage/Contents.swift
 [5]:	https://github.com/conanwhf/swiftplayground/blob/master/Exercise_Demo.playground/Pages/001-005.xcplaygroundpage/Contents.swift
 [6]:	https://github.com/conanwhf/swiftplayground/blob/master/Exercise_Demo.playground/Pages/001-005.xcplaygroundpage/Contents.swift
+[7]:	https://github.com/conanwhf/swiftplayground/blob/master/Exercise_Demo.playground/Pages/012.xcplaygroundpage/Contents.swift
