@@ -21,7 +21,7 @@
 			<outline htmlUrl="http://casatwy.com/" title="Casa Taloyum" xmlUrl="http://casatwy.com/feeds/all.atom.xml" type="rss" text="Casa Taloyum"/>
 			<outline htmlUrl="http://blog.ibireme.com" title="Garan no dou" xmlUrl="http://blog.ibireme.com/feed/" type="rss" text="Garan no dou"/>
 			<outline htmlUrl="http://imtx.me/" title="I'm TualatriX" xmlUrl="http://imtx.me/feed/latest/" type="rss" text="I'm TualatriX"/>
-			<outline htmlUrl="http://yoursite.com/" title="iOS开发和七七八八" xmlUrl="http://conanwhf.gitcafe.io/atom.xml" type="rss" text="iOS开发和七七八八"/>
+			<outline htmlUrl="http://conanwhf.coding.me/" title="iOS开发和七七八八" xmlUrl="http://conanwhf.coding.me/atom.xml" type="rss" text="iOS开发和七七八八"/>
 			<outline htmlUrl="http://www.cnblogs.com/kenshincui/" title="Kenshin Cui's Blog" xmlUrl="http://www.cnblogs.com/kenshincui/rss" type="rss" text="Kenshin Cui's Blog"/>
 			<outline htmlUrl="http://blog.zhowkev.in/" title="Kevin Blog" xmlUrl="http://zhowkev.in/rss" type="rss" text="Kevin Blog"/>
 			<outline htmlUrl="http://blog.leezhong.com/" title="Limboy 无网不剩" xmlUrl="http://feeds.feedburner.com/lzyy" type="rss" text="Limboy 无网不剩"/>
